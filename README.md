@@ -154,41 +154,6 @@ https://your-project-url.vercel.app
 
 <img width="452" height="324" alt="image" src="https://github.com/user-attachments/assets/371f8812-d1b4-4461-8fb9-edeafeb49eac" />
 
-
----
-
-## ⚙️ Local Setup
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/repository-name.git
-```
-
-Navigate to the project directory:
-
-```bash
-cd repository-name
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Run the development server:
-
-```bash
-npm run dev
-```
-
-Open:
-
-```text
-http://localhost:3000
-```
-
 ---
 
 ## 📚 Acknowledgements
